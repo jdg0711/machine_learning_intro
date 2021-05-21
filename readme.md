@@ -1,6 +1,7 @@
 # Introduction to Machine Learning with scikit-learn
 ## A Data School project
 ![robot](./images/01_robot.png)
+
 **Objective:** Learn the fundamentals of Machine Learning. This course covered the following topics:
 - What is Machine Learning?
 - Why use scikit-learn?
